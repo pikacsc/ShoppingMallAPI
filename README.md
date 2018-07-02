@@ -1,3 +1,8 @@
+#Demo
+
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=AVA6gvll3zw" autoplay=1 frameborder="0" gesture="media" allowfullscreen=""></iframe>
+
+
 Shopping Mall API server
 ========================
 
@@ -15,6 +20,14 @@ Shopping Mall API server
 
 
 #업무분담
+
+최성찬= 관리자페이지(Spring Boot, angular)
+*상품관리
+*배너관리
+*직원관리
+*게시판관리
+*주문관리
+
 
 
 김동현= back-end(Spring Boot)
