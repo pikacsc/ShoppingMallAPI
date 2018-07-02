@@ -1,6 +1,6 @@
 #Demo
 
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=AVA6gvll3zw" autoplay=1 frameborder="0" gesture="media" allowfullscreen=""></iframe>
+[![Alt text](https://img.youtube.com/vi/AVA6gvll3zw/0.jpg)](https://www.youtube.com/watch?v=AVA6gvll3zw)
 
 
 Shopping Mall API server
